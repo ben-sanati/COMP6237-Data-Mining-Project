@@ -31,7 +31,11 @@ A dataset of macroeconomic indicators is created with a monthly sampling frequen
 
 During the analysis of the dataset, the authors chose the price-earnings ratio (PE) as the target variable. This is because it reflects the market’s opinion of the luxury fashion industry by considering both the share price and the company’s actual performance through its earnings.
 
-Various time-series models were trained and tested using this dataset. These models were then compared against each other. The trained time-series models include:
+The datasets features are prepared by de-meaning and normalizing the data to address variations in magnitude, and checking for stationarity using the Augmented Dickey-Fuller (ADF) test with differencing or log-norm transformations applied where needed.
+
+Subsequently, EDA is conducted to identify significant features by examining their correlation with the target feature. The features with the strongest correlation are further investigated to determine the lag that yields the highest correlation. This comprehensive process involves normalization, stationarity testing, cyclic embedding, lag addition, and correlation analysis to ensure that the features are properly prepared for subsequent modeling and analysis.
+
+Once the data preperation was completed, various time-series models were trained and tested using this dataset. These models were then compared against each other. The trained time-series models include:
 
 - Last Observation Carried Forward (LOCF)
 - Simple Moving Average (SMA)
