@@ -1,5 +1,4 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) &emsp;
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) &emsp;
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) &emsp;
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) &emsp;
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) &emsp;
@@ -11,21 +10,18 @@ Table of Contents
 =================
 
 * [Predicting the Performance of the UK Luxury Fashion Industry](#predicting-the-performance-of-the-uk-luxury-fashion-industry)
-   * [Summary](#summary)
-      * [Motivation](#motivation)
-      * [Achievements](#achievements)
+   * [Motivation](#motivation)
+   * [Achievements](#achievements)
    * [Final Report](#final-report)
       * [**Contributors**](#contributors)
 
 # Predicting the Performance of the UK Luxury Fashion Industry
 
-## Summary
-
-### Motivation
+## Motivation
 
 Predicting the performance of various sectors of industry in the United Kingdom (UK) has a range of benefits. Whether you are a member of the government working to guide economic policy or a private investor performing due diligence before making a decision on purchasing shares in a company; having an idea of how various companies will perform in the future provides essential insight to any decision-making process. In this report, the authors investigate how various economic indicators can be used to predict the performance of the UK luxury fashion sector. 
 
-### Achievements
+## Achievements
 
 A dataset of macroeconomic indicators is created with a monthly sampling frequency. It includes a “Sentiment” feature to gauge public opinion towards the UK government. The goal is to use these indicators to predict the UK’s economic health and, in turn, the willingness of consumers to spend on luxury goods.
 
