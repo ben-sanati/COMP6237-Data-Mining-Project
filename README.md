@@ -3,7 +3,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) &emsp;
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) &emsp;
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) &emsp;
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) &emsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 Table of Contents
@@ -40,7 +40,7 @@ Various time-series models were trained and tested using this dataset. These mod
 - Monte Carlo Simulation
 - Prophet
 
-Prophet was found to be the best performing model, achieving a MAPE of $11.36\%$. 
+Prophet was found to be the best performing model, achieving a MAPE of $11.36\%$. The training and validation of the prophet model is shown in [this Jupyter notebook](prophet.ipynb)
 
 <p align="center">
   <img src="./READMEimgs/bestProphet.png" width="650"/>
