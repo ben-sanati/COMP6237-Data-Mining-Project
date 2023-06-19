@@ -44,7 +44,7 @@ Once the data preperation was completed, various time-series models were trained
 - Monte Carlo Simulation
 - Prophet
 
-Prophet was found to be the best performing model, achieving a MAPE of $11.36\%$. The training and validation of the prophet model is shown in [this Jupyter notebook](prophet.ipynb)
+Prophet was found to be the best performing model, achieving a MAPE of $11.36\%$. The training and validation of the prophet model is shown in [this Jupyter notebook](prophet.ipynb).
 
 <p align="center">
   <img src="./READMEimgs/bestProphet.png" width="650"/>
