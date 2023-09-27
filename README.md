@@ -26,7 +26,7 @@ Predicting the performance of various sectors of industry in the United Kingdom 
 A dataset of macroeconomic indicators is created with a monthly sampling frequency. It includes a “Sentiment” feature to gauge public opinion towards the UK government. The goal is to use these indicators to predict the UK’s economic health and, in turn, the willingness of consumers to spend on luxury goods.
 
 <p align="center">
-  <img src="./READMEimgs/model.drawio.png" width="401"/>
+  <img src="./READMEimgs/model.drawio.png" width="400"/>
 </p>
 
 During the analysis of the dataset, the authors chose the price-earnings ratio (PE) as the target variable. This is because it reflects the market’s opinion of the luxury fashion industry by considering both the share price and the company’s actual performance through its earnings.
