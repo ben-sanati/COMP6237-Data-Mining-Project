@@ -52,6 +52,8 @@ Prophet was found to be the best performing model, achieving a MAPE of $11.36\%$
 
 The performance of each model is shown in the table below.
 
+<div align="center">
+
 | Method | MAPE (%) |
 | --- | --- |
 | Last Observation Carried Forward (LOCF) | 104.64 |
@@ -60,6 +62,8 @@ The performance of each model is shown in the table below.
 | XGBoost | 157 |
 | Monte Carlo Simulation | 22.6 |
 | Prophet | 11.36 |
+
+</div>
 
 ## Final Report
 The methodology, results and analysis are discussed in the [final report](final_report.pdf).
